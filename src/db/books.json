@@ -1,12 +1,5 @@
 [
   {
-    "id": "b72f94f2-bc09-49e4-85a6-83fd7eaa29c0",
-    "title": "Cien Años de Soledad - Edición Actualizada",
-    "author": "Gabriel García Márquez",
-    "year": 1967,
-    "genre": "Realismo mágico"
-  },
-  {
     "id": "4830cf66-ede9-4a39-8e93-05ef80aabf7e",
     "title": "Cien Años de Soledad",
     "author": "Gabriel García Márquez",
@@ -19,5 +12,12 @@
     "author": "Gabriel García Márquez",
     "year": 1967,
     "genre": "Realismo mágico"
+  },
+  {
+    "id": "9725dae8-3fd5-488c-bc47-248e9567f19b",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "year": null,
+    "genre": null
   }
 ]
